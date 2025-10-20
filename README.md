@@ -15,3 +15,7 @@ Now run it:
 ```
 ./eas.sh
 ```
+
+## TODO
+- Add a list of all ~1k call signs instead of a text box
+- Add 12 hour time support for the time
